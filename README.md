@@ -18,7 +18,7 @@ This component allows you to save and load a spreadsheet in a custom file format
 
 ### 2. Game of Life
 This component implements Conway's Game of Life, a cellular automaton that operates on a grid. Each tile in the grid can be either "on" or "off", and at each tick, the state of the grid is updated based on the following rules:
-![Life Image](./images/life.png)
+![Life Image](./image/life.png)
 1. Any "on" cell with fewer than two "on" neighbours turns "off".
 2. Any "on" cell with two or three "on" neighbours stays "on".
 3. Any "on" cell with more than three "on" neighbours turns "off".
@@ -43,7 +43,7 @@ Implements the cellular automaton simulation where each cell updates its state b
 
 ### `Tetros`
 A simplified Tetris game where the provided implementation diverges from the traditional Tetris rules.
-![Game Image](./images/game.png)
+![Game Image](./image/game.png)
 ## Usage
 
 ### Starting the Application
