@@ -4,26 +4,29 @@ The software in this repository is licensed under the terms of the University of
 
 1. **Ownership**:
    - The copyright for this software is owned by Xinzhe Hou, the creator of the software. The University of Queensland (UQ) does not claim ownership of the software but retains certain rights under its intellectual property policies.
+
+2. **Usage**:
+   - You may freely use, modify, and distribute this software for educational and non-commercial purposes only, *provided that it is not used for assignments or academic work other than that for which it was originally created by the author*. All copies of the software should include this license.
    
-2. **Usage**: 
-   - You may freely use, modify, and distribute this software for educational and non-commercial purposes only. All copies of the software should include this license.
+3. **Prohibited Use**:
+   - **This software may not be used by others for assignment or academic purposes.** Any attempt to submit or use this software as part of another individual's academic work or assignment is strictly prohibited.
    
-3. **Commercial Use**: 
+4. **Commercial Use**:
    - Commercial use of this software is prohibited without express written permission from the author and the University of Queensland.
 
-4. **Modification**: 
-   - You may modify the software and redistribute it under the same license terms.
+5. **Modification**:
+   - You may modify the software and redistribute it under the same license terms, provided that modifications are not used for assignments or academic work without the author's permission.
 
-5. **No Warranty**: 
+6. **No Warranty**:
    - The software is provided "as is," without any warranty or guarantee of any kind. The author and the University of Queensland are not liable for any damages arising from the use of this software.
 
-6. **Attribution**:
+7. **Attribution**:
    - When redistributing this software, you must provide appropriate attribution to the original author (Xinzhe Hou) and the University of Queensland, as well as a reference to this license.
 
-7. **University’s Rights**:
+8. **University’s Rights**:
    - If the work was created as part of a course requirement or research funded by UQ, UQ may have certain rights to use or distribute the software for non-commercial purposes, subject to the university’s Intellectual Property Policy.
-   
-8. **No Endorsement**:
+
+9. **No Endorsement**:
    - You may not use the name "University of Queensland" or "UQ" to endorse or promote products derived from this software without written permission from the university.
 
 For more details on UQ’s policies, please refer to [UQ's Intellectual Property Policy](https://ppl.app.uq.edu.au/).
