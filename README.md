@@ -31,6 +31,7 @@ A simplified and intentionally diverging version of Tetris is implemented as Tet
 
 #### Tetros Refactoring
 The Tetros implementation is refactored to ensure flexibility, maintainability, and future extensibility. This refactor preserves the original game behavior, including its intentional deviations from standard Tetris mechanics. 
+![Game Image](./image/game.png)
 
 ## Components
 
@@ -43,7 +44,6 @@ Implements the cellular automaton simulation where each cell updates its state b
 
 ### `Tetros`
 A simplified Tetris game where the provided implementation diverges from the traditional Tetris rules.
-![Game Image](./image/game.png)
 ## Usage
 
 ### Starting the Application
